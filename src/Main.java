@@ -46,7 +46,7 @@ public class Main {
         System.out.println("### Задание 3");
         Car car1 = new Car("123", "C-Class", "Mercedes", 2020, 15000, 35000);
         Car car2 = new Car("456", "E-Class", "Mercedes", 2018, 30000, 28000);
-        Car car3 = new Car("123", "C-Class AMG", "Mercedes", 2021, 5000, 45000); // тот же VIN, что у car1
+        Car car3 = new Car("123", "C-Class AMG", "Mercedes", 2021, 5000, 45000);
         Car car4 = new Car("789", "X5", "BMW", 2022, 10000, 50000);
         Car car5 = new Car("898", "X", "Tesla", 2020, 20000, 40000);
 
